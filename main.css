@@ -183,13 +183,13 @@ p {
 }
 
 hr {
-	margin-top: 30px;
+	margin-top: 40px;
 	border-top: 3px solid rgb(128, 248, 221);
 	width: 25px;
 }
 
 section {
-	margin-top: 70px;
+	margin-top: 40px;
 	text-align: center;
 }
 
@@ -234,8 +234,15 @@ footer img {
 	footer {
 		margin-top: 40px;
 	}
+}
 
+.broadcast p {
+	line-height: 1.5;
+}
 
+.broadcast .info {
+	margin-top: 20px;
+	font-size: 20px;
 }
 
 .license {
